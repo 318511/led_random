@@ -41,6 +41,8 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.B, function () {
     // f由B被按下的次數決定
     f += 1
+    // 顯示目前燈數
+    basic.showNumber(f)
 })
 let a = 0
 let n = 0

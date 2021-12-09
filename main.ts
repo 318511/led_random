@@ -50,5 +50,5 @@ let list: number[] = []
 let y = 0
 let x = 0
 let f = 0
-// 至少先讓它亮一個燈
-f = 1
+// 歸0
+f = 0
